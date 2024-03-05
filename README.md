@@ -30,7 +30,7 @@ Make sure you have Go installed on your machine. You can download and install it
 
 ## Accessing the Server
 
-Once the server is running, you can access it by opening a web browser and navigating to [http://localhost:8080](http://localhost:8080) or by using tools like `curl` or `wget` in the terminal:
+Once the server is running, you can access it by opening a web browser and navigating to [http://localhost:8080/numberOfRequests](http://localhost:8080) or by using tools like `curl` or `wget` in the terminal:
 
 ```bash
 curl http://localhost:8080/numberOfRequests
