@@ -23,7 +23,7 @@ Make sure you have Go installed on your machine. You can download and install it
 4. Run the executable by executing the following command:
 
     ```bash
-    ./main
+    go run main.go
     ```
 
     This will start the HTTP server, which will listen on port 8080.
